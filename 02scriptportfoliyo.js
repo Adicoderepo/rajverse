@@ -71,7 +71,7 @@ if (contactForm) {
             }
 
             // STEP 3: Show success only after a successful insert.
-            alert("Data saved successfully in Supabase!");
+            alert("Your data has arrived !");
 
             // STEP 4: Clear all form fields after successful insert.
             contactForm.reset();
